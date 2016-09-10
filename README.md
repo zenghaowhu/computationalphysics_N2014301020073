@@ -1,4 +1,4 @@
 # Homework List:
-- [ ] Exercise1:
+- [x] Exercise1:
 $$E=mc^2$$
-- [ ] 支持以 PDF 格式导出文稿
+- [x] 支持以 PDF 格式导出文稿
