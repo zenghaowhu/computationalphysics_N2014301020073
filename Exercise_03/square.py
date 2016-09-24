@@ -1,6 +1,7 @@
 import os
 import time
 
+k = os.system('cls')
 while True:
     for n in range(10):     #放大
         for i in range(20):
