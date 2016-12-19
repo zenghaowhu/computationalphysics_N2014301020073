@@ -11,3 +11,4 @@
 - [x] [Exercise_10:](https://www.zybuluo.com/zneghaowhu/note/581897)
 - [x] [Exercise_11:](https://www.zybuluo.com/zneghaowhu/note/590156)
 - [x] [Exercise_12](https://www.zybuluo.com/zneghaowhu/note/597959)
+- [x] [Exercise_12](https://www.zybuluo.com/zneghaowhu/note/605191)
